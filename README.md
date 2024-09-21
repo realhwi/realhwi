@@ -22,7 +22,7 @@
 <br />
 
 
-## 🔨 SKILL
+## 🚀 SKILL
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Programming Languages -->
     <p><strong>Programming Languages</strong></p>
@@ -35,7 +35,7 @@
 </div>
 <br />
 
-## 🔨 TOOL
+## 🖍 TOOL
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <img src="https://img.shields.io/badge/UnrealEngine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"> 
@@ -57,3 +57,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realhwi&show_icons=true&theme=cobalt)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realhwi&layout=compact&theme=tokyonight" height = "195px"/>
 <br />
+<br />
+
+## 🔔 ETC
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frealhwi&count_bg=%23F379B0&title_bg=%23EFC5D0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true&style=flat)](https://github.com/realhwi)
+<br />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgnl49)](https://solved.ac/wlsgnl49/)
+<br />
+<br />
+
