@@ -49,6 +49,7 @@
         <img src="https://img.shields.io/badge/Enscape-FF6C37?style=for-the-badge&logo=enscape&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+        <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white">  
     </div>
 </div>
 <br />
