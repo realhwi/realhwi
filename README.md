@@ -16,12 +16,6 @@
 >   </a>
 <br />
 
-## 💡Intro 
-<br />
-<br />
-<br />
-
-
 ## 🚀 SKILL
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Programming Languages -->
@@ -61,9 +55,10 @@
 <br />
 
 ## 🔔 ETC
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frealhwi&count_bg=%23F379B0&title_bg=%23EFC5D0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true&style=flat)](https://github.com/realhwi)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=realhwi)](https://github.com/realhwi)
 <br />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgnl49)](https://solved.ac/wlsgnl49/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgnl49)](https://solved.ac/wlsgnl49/)
 <br />
 <br />
+
 
