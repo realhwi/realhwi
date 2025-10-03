@@ -8,7 +8,7 @@
 </h2>
 
 > - 이메일 : wlsgnl49@gmail.com
-> - 블로그 : <a href="https://immvrse.hashnode.dev">
+> - 블로그 : <a href="">
 >   <img src="https://www.pngrepo.com/png/353859/512/hashnode-icon.png" alt="블로그" width="20px" height="20px" />
 >   </a>
 > - 깃허브 : <a href="https://github.com/realhwi">
